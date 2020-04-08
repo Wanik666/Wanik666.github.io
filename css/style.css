@@ -11401,7 +11401,7 @@ hr {
   background-color: #151313;
 }
 .night .tag:not(body) {
-  background-color: #151313;
+  background-color: #fff !important;
 }
 .night strong {
   color: #fff;
@@ -11487,7 +11487,7 @@ hr {
   color: #c0c0c0 !important;
 }
 .night .tag:not(body) {
-  color: #c0c0c0;
+  color: #3e94ec !important;
 }
 .night #body_hot_comment .comment-content .item {
   color: #c0c0c0;
