@@ -11401,6 +11401,10 @@ hr {
 .font1_1 {
   font-size: 1.1rem;
 }
+.tags .tag:not(body) {
+  background-color: #fff;
+  color: #3e94ec !important;
+}
 .night {
   color: #c0c0c0 !important;
   background-color: #000;
@@ -11418,7 +11422,7 @@ hr {
   background-color: #151313;
 }
 .night .tag:not(body) {
-  background-color: #fff !important;
+  background-color: #151313;
 }
 .night strong {
   color: #fff;
